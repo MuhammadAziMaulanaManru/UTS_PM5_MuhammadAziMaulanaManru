@@ -1,3 +1,56 @@
 <resources>
     <string name="app_name">Project_Uts</string>
+    <string name="wolcome">welcome to Quizee</string>
+    <string name="on_boarding">make doing the questions easier and more fun!</string>
+    <string name="getstarted">GET STARTED</string>
+    <string name="enteryourname">Enter Your Name!</string>
+    <string name="start">START</string>
+
+
+    <string name="question_1">What is the IDE in the image above?</string>
+    <string name="answer1_question_1">Xcode</string>
+    <string name="answer2_question_1">Eclipse</string>
+    <string name="answer3_question_1">Android Studio</string>
+    <string name="answer4_question_1">Visual Studio Code</string>
+
+
+    <string name="next">NEXT</string>
+
+
+    <string name="question_2">What are the main programming languages for iOS app development?</string>
+    <string name="answer1_question_2">Phyton</string>
+    <string name="answer2_question_2">Swift</string>
+    <string name="answer3_question_2">Java</string>
+    <string name="answer4_question_2">Kotlin</string>
+
+
+    <string name="question_3">What the operating system developed by Google for mobile devices is?</string>
+    <string name="answer1_question_3">IOS</string>
+    <string name="answer2_question_3">Windows</string>
+    <string name="answer3_question_3">Android</string>
+    <string name="answer4_question_3">Linux</string>
+
+
+    <string name="question_4">A popular framework used for cross-platform app development is</string>
+    <string name="answer1_question_4">React Native</string>
+    <string name="answer2_question_4">Notepad++</string>
+    <string name="answer3_question_4">Microsoft Word</string>
+    <string name="answer4_question_4">Unity</string>
+
+
+    <string name="question_5">Which programming languages are commonly used for Android app development?</string>
+    <string name="answer1_question_5">JavaScript</string>
+    <string name="answer2_question_5">HTML</string>
+    <string name="answer3_question_5">Java and Kotlin</string>
+    <string name="answer4_question_5">PHP</string>
+
+
+    <string name="submit">SUBMIT</string>
+
+
+    <string name="congratulations">Congratulations</string>
+    <string name="yourscoreis">Your score is</string>
+
+
+    <string name="finish">FINISH</string>
 </resources>
