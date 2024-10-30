@@ -13,7 +13,34 @@
         android:theme="@style/Theme.Project_Uts"
         tools:targetApi="31">
         <activity
+            android:name=".Finish_Page"
+            android:exported="false" />
+        <activity
+            android:name=".QuizPageFive"
+            android:exported="false" />
+        <activity
+            android:name=".QuizPageFour"
+            android:exported="false" />
+        <activity
+            android:name=".QuizPageThree"
+            android:exported="false" />
+        <activity
+            android:name=".QuizPageTwo"
+            android:exported="false" />
+        <activity
+            android:name=".QuizPageOne"
+            android:exported="false" />
+        <activity
+            android:name=".OnBoardingPageTwo"
+            android:exported="false" />
+        <activity
+            android:name=".OnBoardingPageOne"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoadingPage"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
