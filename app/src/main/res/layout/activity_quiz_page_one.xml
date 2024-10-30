@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".QuizPageOne"
+    android:padding="20dp">
+
+    <ImageView
+        android:id="@+id/iv_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo_samping"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <ImageView
+        android:id="@+id/iv_android_studio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/android"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_logo"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/tv_soal_pertama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Question_1"
+        android:textSize="15sp"
+        android:fontFamily="@font/montserrat"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/iv_android_studio"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/btn_opsi_pertama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/xcode"
+        android:backgroundTint="@color/secondary"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:fontFamily="@font/montserrat_semibold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_soal_pertama"
+        android:layout_marginTop="25dp"/>
+
+    <Button
+        android:id="@+id/btn_opsi_kedua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/eclipse"
+        android:backgroundTint="@color/secondary"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:fontFamily="@font/montserrat_semibold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn_opsi_pertama"
+        android:layout_marginTop="15dp"/>
+
+    <Button
+        android:id="@+id/btn_opsi_ketiga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/android_studio"
+        android:backgroundTint="@color/secondary"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:fontFamily="@font/montserrat_semibold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn_opsi_kedua"
+        android:layout_marginTop="15dp"/>
+
+    <Button
+        android:id="@+id/btn_opsi_keempat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/visual_studio_code"
+        android:backgroundTint="@color/secondary"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:fontFamily="@font/montserrat_semibold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn_opsi_ketiga"
+        android:layout_marginTop="15dp"/>
+
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/next"
+        android:backgroundTint="@color/primary"
+        android:textSize="15sp"
+        android:fontFamily="@font/montserrat_semibold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn_opsi_keempat"
+        android:layout_marginTop="100dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
