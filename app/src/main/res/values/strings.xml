@@ -1,56 +1,65 @@
 <resources>
-    <string name="app_name">Project_Uts</string>
-    <string name="wolcome">welcome to Quizee</string>
-    <string name="on_boarding">make doing the questions easier and more fun!</string>
-    <string name="getstarted">GET STARTED</string>
-    <string name="enteryourname">Enter Your Name!</string>
+    <string name="app_name">UTS_Quizee</string>
+
+    <!--    Loading Page-->
+    <string name="let_s_go">LET\'S GO</string>
+
+    <!--    On Boarding 1-->
+    <string name="make_doing_the_questions_easier_and_more_fun">Make doing the questions easier and more fun!!</string>
+    <string name="get_strated">GET STRATED</string>
+
+
+    <string name="welcome_to_quizee">Welcome to Quizee</string>
+
+    <!--    On Boarding 2-->
+    <string name="enter_your_name">Enter Your Name!</string>
     <string name="start">START</string>
 
-
-    <string name="question_1">What is the IDE in the image above?</string>
-    <string name="answer1_question_1">Xcode</string>
-    <string name="answer2_question_1">Eclipse</string>
-    <string name="answer3_question_1">Android Studio</string>
-    <string name="answer4_question_1">Visual Studio Code</string>
-
+    <!--    Quiz Page 1-->
+    <string name="Question_1">What is the IDE in the image above?</string>
+    <string name="xcode">Xcode</string>
+    <string name="eclipse">Eclipse</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="visual_studio_code">Visual Studio Code</string>
 
     <string name="next">NEXT</string>
 
+    <!--    Quiz Page 2-->
+    <string name="Question_2">What are the main programming languages for iOS app development?</string>
+    <string name="phyton">Phyton</string>
+    <string name="swift">Swift</string>
+    <string name="java">Java</string>
+    <string name="kotlin">Kotlin</string>
 
-    <string name="question_2">What are the main programming languages for iOS app development?</string>
-    <string name="answer1_question_2">Phyton</string>
-    <string name="answer2_question_2">Swift</string>
-    <string name="answer3_question_2">Java</string>
-    <string name="answer4_question_2">Kotlin</string>
+    <!--    Quiz Page 3-->
+    <string name="Question_3">What the operating system developed by Google for mobile devices is?</string>
+    <string name="ios">IOS</string>
+    <string name="windows">Windows</string>
+    <string name="android">Android</string>
+    <string name="linux">Linux</string>
 
+    <!--    Quiz Page 4-->
+    <string name="php">PHP</string>
+    <string name="Question_4">A popular framework used for cross-platform app development is?</string>
+    <string name="react_native">React Native</string>
+    <string name="notepad">Notepad++</string>
+    <string name="microsoft_word">Microsoft Word</string>
+    <string name="unity">Unity</string>
 
-    <string name="question_3">What the operating system developed by Google for mobile devices is?</string>
-    <string name="answer1_question_3">IOS</string>
-    <string name="answer2_question_3">Windows</string>
-    <string name="answer3_question_3">Android</string>
-    <string name="answer4_question_3">Linux</string>
-
-
-    <string name="question_4">A popular framework used for cross-platform app development is</string>
-    <string name="answer1_question_4">React Native</string>
-    <string name="answer2_question_4">Notepad++</string>
-    <string name="answer3_question_4">Microsoft Word</string>
-    <string name="answer4_question_4">Unity</string>
-
-
-    <string name="question_5">Which programming languages are commonly used for Android app development?</string>
-    <string name="answer1_question_5">JavaScript</string>
-    <string name="answer2_question_5">HTML</string>
-    <string name="answer3_question_5">Java and Kotlin</string>
-    <string name="answer4_question_5">PHP</string>
-
+    <!--    Quiz Page 5-->
+    <string name="Question_5">Which programming languages are commonly used for Android app development?</string>
+    <string name="javascript">JavaScript</string>
+    <string name="html">HTML</string>
+    <string name="java_and_kotlin">Java and Kotlin</string>
 
     <string name="submit">SUBMIT</string>
 
-
-    <string name="congratulations">Congratulations</string>
-    <string name="yourscoreis">Your score is</string>
-
-
+    <!--    Finish Page-->
+    <string name="congratulations">Congratulations!!!</string>
+    <string name="your_score">Your Score :</string>
     <string name="finish">FINISH</string>
+
+
+    <string name="on_boarding1_text">make doing the questions easier and more fun !</string>
+    <string name="get_started">GET STARTED</string>
 </resources>
