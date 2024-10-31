@@ -41,33 +41,33 @@ penggunaan aplikasi dan menjawab dengan lebih mudah.
 
 1. Loading Page
 
-<img src="https://github.com/user-attachments/assets/869c43fe-5508-434e-a509-8348e56313cd" height="450" width="200"/>
+<img src="https://github.com/user-attachments/assets/6881adaf-21c4-4612-b8dc-c587122d2c39" height="450" width="200"/>
 
 2. On Boarding Page
 
-<img align="left" src="https://github.com/user-attachments/assets/b22f6cd3-9cb4-4b89-b932-22c2b83634db" height="450" width="200"/>
-<img align="left" src="https://github.com/user-attachments/assets/91b05c3b-d89e-44bc-8bb6-ae60045a16cd" height="450" width="200"/>
+<img align="left" src="https://github.com/user-attachments/assets/d154f4a5-1e98-4e57-a78d-2464d53cfa21" height="450" width="200"/>
+<img align="left" src="https://github.com/user-attachments/assets/62dc24ca-2745-42bc-8980-5108d2ace3c0" height="450" width="200"/>
 
 <br clear="left"/>
 <br />
 
 3. Quiz Page
 
-<img align="left" src="https://github.com/user-attachments/assets/435fe7d4-9f92-4913-a92f-61acbdf539b3" height="450" width="200"/>
-<img align="left" src="https://github.com/user-attachments/assets/96bd507f-1cf8-4c9e-a28b-8d6f69a48b00" height="450" width="200"/>
-<img align="left" src="https://github.com/user-attachments/assets/53c631a3-f1ff-419a-9e8a-c20d889b5522" height="450" width="200"/>
+<img align="left" src="https://github.com/user-attachments/assets/e016932e-9cbb-4bd5-9ab4-c8795b46283d" height="450" width="200"/>
+<img align="left" src="https://github.com/user-attachments/assets/805eabff-401c-40b3-b683-34f92668cbfd" height="450" width="200"/>
+<img align="left" src="https://github.com/user-attachments/assets/fdb46bfc-6b0c-4b4a-b427-d8454537b2b9" height="450" width="200"/>
 
 <br clear="left"/>
 <br />
 
-<img align="left" src="https://github.com/user-attachments/assets/90ff2e5a-4d39-43d8-8305-c4bede5cd397" height="450" width="200"/>
-<img align="left" src="https://github.com/user-attachments/assets/6511a52e-a20a-45d8-9066-d16e3f94e345" height="450" width="200"/>
+<img align="left" src="https://github.com/user-attachments/assets/c4fa7287-125d-4f76-901b-c8af873f536b" height="450" width="200"/>
+<img align="left" src="https://github.com/user-attachments/assets/be6ac7ec-3c37-48c4-847f-60e8ba7db18f" height="450" width="200"/>
 
 <br clear="left"/>
 
 3. Result Page
 
-<img src="https://github.com/user-attachments/assets/a0b2011d-296a-4a23-b57c-3b313de46eb3" height="450" width="200"/>
+<img src="https://github.com/user-attachments/assets/c4b25763-fa3b-4251-b684-3ea6a7fbba7a" height="450" width="200"/>
   
 
 ## Credits
